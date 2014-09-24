@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Word Party</string>
+    <string name="action_settings">Settings</string>
+    <string name="next_button">Got it!</string>
+    <string name="pass_button">Pass</string>
+    <string name="start_word">"Team A\nPress Start!</string>
+    <string name="team_a_score">Team A: 0</string>
+    <string name="team_b_score">Team B: 0</string>
+    <string name="solo_score">Score: 0</string>
+    <string name="high_score">High Score: 0</string>
+    <string name="title_activity_start">Word Party</string>
+    <string name="soloplay_button">Quick Play</string>
+    <string name="categories">Choose a Category</string>
+    <string name="start_button">Start</string>
+    <string name="countdown">45</string>
+    <string name="title_activity_cat">CatActivity</string>
+    <string name="movies_button">Movies</string>
+    <string name="tv_button">Tv</string>
+    <string name="words_button">Words</string>
+    <string name="nouns_button">Nouns</string>
+    <string name="kids_button">Kids</string>
+    <string name="people_button">People</string>
+    <string name="teamplay_button">Team Play</string>
+    <string name="howto_button">How to Play</string>
+    <string name="howtoplay">How to Play</string>
+    <string name="logo">logo</string>
+    <string name="title_activity_howto">Howto</string>
+    <string name="title_activity_results">ResultsActivity</string>
+    <string name="results">You scored: </string>
+    <string name="play_again_button">Play Again</string>
+    <string name="main_menu_button">Main Menu</string>
+    <string name="correctAnswers">The Shawshank Redemption</string>
+    <string name="wrongAnswers">The Lion, the witch, and the wardrobe</string>
+    <string name="instructions">\n1. Choose quick play or team play\n2. Select a category\n3. Describe the word to the other players without using the word itself\n4. If the word is guessed correctly, press Got it!\n5. Press pass if you want to pass\n6. When the timelimit is up you are scored on the number of words you got!</string>
+
+    <style name="main_menu_btn">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+    <style name="back_btn">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>

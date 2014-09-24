@@ -1,0 +1,504 @@
+300
+101 Dalmatians
+12 Angry Men
+12 Years a Slave
+127 Hours
+21 Jump Street
+47 Ronin
+50 First Dates
+50/50
+500 Days of Summer
+8 Mile
+A Beautiful Mind
+A Bugs Life
+A Clockwork Orange
+A Fish Called Wanda
+A Good Day to Die Hard
+About Time
+Air Force One
+Aladdin
+Aladdin 
+Alice in Wonderland
+Alien
+Amelie
+American Beauty
+American History X
+American Hustle
+American Pie
+American Psycho
+An Education
+An Inconvenient Truth
+Anchorman
+Angels in the Outfield 
+Anna Karenina
+Annie
+Apollo 13
+Apollo 13 
+Argo
+Armageddon
+As Good as It Gets
+August: Osage County
+Austin Powers
+Avatar
+Babe
+Back to the Future
+Bad Boys
+Batman
+Batman and Robin
+Batman Begins
+Batman Forever
+Batman Returns
+Battleship
+Beaches
+Beasts of the Southern Wild
+Beauty and the Beast
+Beauty and the Beast 
+Beetlejuice
+Beverly Hills Cop
+Bill & Ted's Excellent Adventure
+Billy Madison
+Black Beauty
+Black Hawk Down
+Black Swan
+Borat
+Bowling for Columbine
+Brave
+Braveheart
+Bridesmaids
+Bridget Jones' Diary
+Brokeback Mountain
+Bruce Almighty
+Cabin in the Woods
+Captain America
+Captain Phillips
+Cars
+Casablanca
+Casino Royale
+Casino Royale 
+Cast Away
+Catch Me If You Can
+Chariots of Fire
+Charlotte's Web
+Chasing Amy
+Chicago
+Children of Men
+Chocolat
+Cinderella
+Cinderella 
+City of God
+Clash of the Titans
+Clerks
+Click
+Close Encounters of the Third Kind
+Cloud Atlas
+Cloudy with a Chance of Meatballs
+Cloudy With a Chance of Meatballs
+Clueless
+Cool Runnings
+Crash
+Crash 
+Crazy, Stupid, Love.
+Crouching Tiger, Hidden Dragon
+Crouching Tiger, Hidden Dragon 
+Dallas Buyers Club
+Dances with Wolves
+Dead Man Walking
+Dead Poets Society
+Despicable Me
+Dick Tracy
+District 9
+Divergent
+Django Unchained
+Dodge Ball 
+Dogma
+Donnie Darko
+Dredd
+Drive
+Driving Miss Daisy
+Dumb and Dumber
+Dumbo
+E.T.
+Easy A
+Eat Pray Love
+Edward Scissorhands
+Elf
+Enchanted
+Ender's Game
+Enter the Dragon
+Erin Brockovich
+Eternal Sunshine of the Spotless Mind
+Exit Through The Gift Shop
+Face Off
+Fantastic Mr. Fox
+Fargo
+Fast and Furious 
+Ferris Bueller's Day Off
+Fight Club
+Finding Nemo
+Finding Neverland
+Forrest Gump
+Forrest Gump 
+Four Weddings and a Funeral
+Free Willy
+Fried Green Tomatoes
+Frozen
+Gangs of New York
+Gangster Squad
+Ghost
+Ghostbusters
+Gladiator
+Gone In Sixty Seconds
+Good Morning, Vietnam
+Good Will Hunting
+Goodfellas
+Gran Torino
+Gravity
+Grease
+Green Lantern
+Gremlins
+Groundhog Day
+Hairspray
+Hancock
+Happy Feet
+Happy Feet 
+Happy Gilmore
+Harry Potter
+Hellboy
+Her
+Hercules
+High School Musical
+Hitch
+Home Alone
+Honey, I Shrunk the Kids
+Hook
+Hot Fuzz
+Hotel Rwanda
+Hotel Transylvania
+How to Train Your Dragon
+Hugo
+I Am Legend
+I Know What You Did Last Summer
+I, Robot 
+I,Robot
+Ice Age
+Inception
+Independence Day
+Indiana Jones and the Last Crusade
+Indiana Jones and the Temple of Doom
+Inglourious Basterds
+Inside Job
+Into the Wild
+Ip Man
+Iron Man
+Iron Man 
+Jack Reacher
+Jack Ryan: Shadow Recruit
+James and the Giant Peach
+Jaws
+Jaws 
+Jay and Silent Bob Strike Back
+Jerry Maguire
+Jiro Dreams of Sushi
+Jumanji
+Juno
+Jurassic Park
+Karate Kid
+Kick Ass 
+Kill Bill
+King Kong
+Kiss Kiss Bang Bang
+Knocked Up
+Kung Fu Panda
+Kung-Fu Panda
+Leon: The Professional
+Les Miserables
+Liar Liar
+Life Is Beautiful
+Life of Pi
+Lincoln
+Little Miss Sunshine
+Little Miss Sunshine 
+Little Nicky
+Little Women 
+Lock, Stock and Two Smoking Barrels
+Looper
+Lord of the Rings: Return of the King
+Lost in Translation
+Madagascar
+Magic Mike
+Mallrats
+Man of Steel
+Marley and Me
+Mars Attacks
+Mary Poppins
+Mask
+Me, Myself & Irene
+Meet Joe Black
+Meet The Parents
+Memento
+Men in Black
+Million Dollar Baby
+Milo and Otis
+Minority Report
+Miss Congeniality
+Mission Impossible 
+Mission: Impossible
+Moneyball
+Monsters Inc
+Monsters University
+Monty Python and the Holy Grail
+Moonrise Kingdom
+Moulin Rouge
+Mrs Doubtfire
+Mrs. Doubtfire
+Mulan
+Muppets Most Wanted
+My Best Friend's Wedding
+My Left Foot
+My Week with Marilyn
+Napolean Dynamite
+National Treasure
+Need for Speed
+No Country for Old Men
+Noah
+Notting Hill
+Ocean's Eleven
+Office Space
+Oldboy
+On the Waterfront
+Oz the Great and Powerful
+Pacific Rim
+Pan's Labyrinth
+Panic Room
+Paranormal Activity
+Patch Adams
+Pearl Harbor
+Percy Jackson
+Peter Pan
+Philadelphia
+Philomena
+Pinnochio
+Pirates of the Caribbean
+Pirates of the Caribbean 
+Pitch Perfect
+Planet of the Apes
+Planet of the Apes 
+Pocahontas
+Point Break
+Police Academy
+Predator
+Pretty in Pink
+Pretty Woman
+Pride and Prejudice
+Prisoners
+Project Nim
+Prometheus
+Psycho
+Pulp Fiction
+Puss in Boots
+Raiders of the Lost Ark
+Rain Man
+Rango
+Ratatouille
+Real Steel
+Reign of Fire
+Remember the Titans
+Requiem for a Dream
+Reservoir Dogs
+Revenge of the Nerds
+Rise of the Guardians
+Robin Hood
+Robin Hood: Prince of Thieves
+RoboCop
+Rocky
+Romeo and Juliet
+Rush Hour
+Safe Haven
+Salmon Fishing in the Yemen
+Saving Mr. Banks
+Saving Private Ryan
+Saw
+Schindler's List
+Scream
+Se7en
+Sea Biscuit
+Searching for Sugar Man
+Seven Years in Tibet
+Shakespeare in Love
+Shaun of the Dead
+Sherlock Holmes
+Shrek
+Shutter Island
+Silver Linings Playbook
+Sin City
+Singing in the Rain 
+Skyfall
+Sleeping Beauty
+Sleepless in Seattle
+Sleepy Hollow
+Slumdog Millionaire
+Snakes on a Plane
+Snatch
+Snow White and the Huntsman
+Snow White and the Seven Dwarfs
+Snow White and the Seven Dwarfs 
+Speed
+Spiderman
+Spirited Away
+Stand by Me
+Star Trek
+Star Wars: A New Hope
+Star Wars: Return of the Jedi
+Star Wars: The Empire Strikes Back
+Super 8
+Superbad 
+Superman
+Sweet Home Alabama 
+Taken
+Tangled
+Ted
+Teenage Mutant Ninja Turtles
+Terminator
+That Thing You Do
+The 40-Year-Old Virgin
+The Adjustment Bureau
+The Adventures of Tintin
+The Artist
+The Avengers
+The Aviator
+The Big Boss
+The Big Lebowski
+The Birds
+The Blair Witch Project
+The Blind Side
+The Book Thief
+The Bourne Identity
+The Breakfast Club
+The Bucket List 
+The Cable Guy
+The Crow
+The Crying Game
+The Curious Case of Benjamin Button
+The Da Vinci Code
+The Dark Knight
+The Dark Knight Rises
+The Departed
+The Devil Wears Prada
+The Devil's Advocate
+The Emperor's New Groove
+The Exorcist
+The Expendables
+The Fast and the Furious
+The Fifth Element
+The Fighter
+The Fugitive
+The Full Monty
+The Girl With the Dragon Tattoo
+The Godfather
+The Gods Must Be Crazy
+The Golden Compass
+The Good, the Bad and the Ugly
+The Goonies
+The Grand Budapest Hotel
+The Great Gatsby
+The Green Mile
+The Grudge
+The Hangover 
+The Help
+The Hobbit
+The Hunger Games
+The Hunt for Red October
+The Impossible
+The Incredible Hulk
+The Incredibles
+The Internship
+The Iron Lady
+The Italian Job
+The King's Speech
+The Land Before Time
+The Lego Movie
+The Lincoln Lawyer
+The Lion King
+The Lion, the Witch and the Wardrobe
+The Little Mermaid
+The Little Mermaid 
+The Lone Ranger
+The Lord of the Rings
+The Machinist
+The Matrix
+The Mighty Ducks
+The Notebook
+The Notebook 
+The Nutty Professor
+The Other Guys
+The Pianist
+The Piano
+The Prestige
+The Princess Bride
+The Princess Bride 
+The Raid
+The Ring
+The Secret Life of Walter Mitty
+The Secret World of Arrietty
+The Shawshank Redemption
+The Shining
+The Silence of the Lambs
+The Simpsons Movie
+The Sixth Sense
+The Smurfs 
+The Social Network
+The Sound of Music
+The Sound of Music 
+The Terminal
+The Terminator
+The Truman Show
+The Usual Suspects
+The Way of the Dragon
+The Wedding Singer 
+The Wizard of Oz
+The Wolf of Wall Street
+The Wolverine
+Thelma & Louise
+Thor
+Tinker Tailor Soldier Spy
+Titanic
+Titanic 
+To Kill A Mockingbird
+Top Gun
+Total Recall
+Toy Story
+Toy Story 3
+Transformers
+Transformers 
+Tron
+Tropic Thunder
+Troy
+Twilight
+Twister
+Two Weeks Notice
+Up
+Up in the Air
+V for Vendetta
+Vertigo
+Walk the Line 
+WALL-E
+Wall.E
+Wallace & Gromit
+Warrior
+Watchmen
+Wayne's World
+We Bought a Zoo
+Wedding Crashers
+Who Framed Roger Rabbit
+Willy Wonka and the Chocolate Factory
+Willy Wonka and the Chocolate Factory 
+World War Z
+Wreck-It Ralph
+X-Men
+X-Men 
+Yes Man
+You've Got Mail
+Zero Dark Thirty
+Zombieland
+Zoolander
+Zorro
